@@ -13,7 +13,7 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express, Puppeteer  
 - **AI & ML:** Google Generative AI (Gemini), NLP  
-- **Data Structures & Algorithms:** Solved 250+ problems on LeetCode  
+- **Data Structures & Algorithms:** Solved problems on LeetCode in Python,Java  
 
 ### 👯 Open to Collaborations
 - Web development projects  
