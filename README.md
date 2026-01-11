@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm KompallyAkhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kompallyakhil&label=Profile%20views&color=0e75b6&style=flat" alt="kompallyakhil" /> </p>
 
@@ -12,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/http://akhilkompally.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://akhilkompally.app" height="30" width="40" /></a>
 <a href="https://twitter.com/akhilkompally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilkompally" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilkompally/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilkompally/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_a_k_h_i_l_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a_k_h_i_l_27/" height="30" width="40" /></a>
