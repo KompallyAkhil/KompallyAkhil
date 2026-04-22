@@ -16,9 +16,6 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE (AIML)** student, graduating 2026
-- 🔭 Currently building **[NexScreen](https://github.com/kompallyakhil)** — an AI resume intelligence pipeline using FastAPI, LangGraph, SBERT & Gemini
-- 🧪 Researching **battery cathode dopant prediction** with M3GNet (LithoBoost)
-- 🛡️ Actively exploring **cybersecurity** — built PhisX, a phishing detection Chrome extension
 - 💬 Ask me about **ML pipelines, NLP, full-stack development, or LeetCode (Java)**
 - 📫 Reach me at **akhilkompally27@gmail.com**
 - 🌐 Portfolio: [akhilkompally.app](https://akhilkompally.app)
