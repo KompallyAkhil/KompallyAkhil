@@ -21,7 +21,7 @@
 ### 🔗 Connect with Me
 
 
-<p align="left"  style="display: flex; gap: 10px; align-items: center;">
+<p style="display: flex; gap: 10px; align-items: center;">
   <a href="https://twitter.com/akhilkompally" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
