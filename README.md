@@ -19,7 +19,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**NexScreen**](https://github.com/KompallyAkhil/NexScreen) | AI resume screening pipeline with multi-agent LangGraph orchestration & SBERT cosine similarity | FastAPI · LangGraph · SBERT · Gemini · Docker |
-| [**MagicBoard**](https://github.com/KompallyAkhil/MagicBoard) | Handwritten equation solver using Gemini Vision API with JWT auth & canvas input | Next.js · Gemini API · JWT |
+| [**MagicBoard**](https://github.com/KompallyAkhil/MagicBoard) | Handwritten equation solver using Gemini Vision API with JWT auth & canvas input | React.js · Gemini API · JWT |
 | [**LeetCodolio**](https://github.com/KompallyAkhil/LeetCodolio) | LeetCode analytics dashboard — solve history, difficulty distribution, topic heatmaps | MERN · Chart.js |
 | [**SwipeCV**](https://github.com/KompallyAkhil/SwipeCV) | Resume builder & sharing platform with live preview and export | MongoDB · Express · React · Node.js |
 
@@ -47,7 +47,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
@@ -57,7 +56,6 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 **Infrastructure & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
