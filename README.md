@@ -102,8 +102,6 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**NexScreen**](https://github.com/KompallyAkhil/NexScreen) | AI resume screening pipeline with multi-agent LangGraph orchestration & SBERT cosine similarity | FastAPI · LangGraph · SBERT · Gemini · Docker |
-| [**LithoBoost**](https://github.com/KompallyAkhil/LithoBoost) | Battery cathode dopant predictor using M3GNet GNN on crystal structures, deployed on GPU server | PyTorch · matgl · M3GNet · FastAPI · React |
-| [**PhisX**](https://github.com/KompallyAkhil/PhisX) | Chrome extension for real-time phishing detection — ML on 11k+ URLs, 96% accuracy, deployed on AWS | Flask · Scikit-learn · Docker · AWS EC2 · React |
 | [**MagicBoard**](https://github.com/KompallyAkhil/MagicBoard) | Handwritten equation solver using Gemini Vision API with JWT auth & canvas input | Next.js · Gemini API · JWT |
 | [**LeetCodolio**](https://github.com/KompallyAkhil/LeetCodolio) | LeetCode analytics dashboard — solve history, difficulty distribution, topic heatmaps | MERN · Chart.js |
 | [**SwipeCV**](https://github.com/KompallyAkhil/SwipeCV) | Resume builder & sharing platform with live preview and export | MongoDB · Express · React · Node.js |
