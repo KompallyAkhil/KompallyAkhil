@@ -19,9 +19,11 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**NexScreen**](https://github.com/KompallyAkhil/NexScreen) | AI resume screening pipeline with multi-agent LangGraph orchestration & SBERT cosine similarity | FastAPI · LangGraph · SBERT · Gemini · Docker |
+| [**CodeSync**](https://github.com/KompallyAkhil/CodeSync) | Chrome extension that automatically syncs coding solutions from LeetCode, GfG, Codeforces, and HackerRank to GitHub | React · Vite · Next.js · Manifest V3 |
 | [**MagicBoard**](https://github.com/KompallyAkhil/MagicBoard) | Handwritten equation solver using Gemini Vision API with JWT auth & canvas input | React.js · Gemini API · JWT |
 | [**LeetCodolio**](https://github.com/KompallyAkhil/LeetCodolio) | LeetCode analytics dashboard — solve history, difficulty distribution, topic heatmaps | MERN · Chart.js |
 | [**SwipeCV**](https://github.com/KompallyAkhil/SwipeCV) | Resume builder & sharing platform with live preview and export | MongoDB · Express · React · Node.js |
+| [**LeetCodolio**](https://github.com/KompallyAkhil/LeetCodolio) | LeetCode profile tracker & comparison dashboard — visualizes solve history, badges, and skills proficiency | React · Express · Puppeteer · Chart.js |
 
 ---
 
