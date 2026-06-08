@@ -1,4 +1,4 @@
-# Hi 👋 I'm Akhil Kompally
+# Hi  I'm Akhil Kompally
 
 ### Building AI systems that go to production · Full-Stack Engineer · Hyderabad, India
 
@@ -10,11 +10,11 @@
 💼 Interned at **Teleparadigm Networks** 
 🔍 Open to **SWE / AI Engineer / ML Engineer** roles  
 🌐 Portfolio: [akhilkompally.app](https://akhilkompally.app)  
-📫 akhilkompally27@gmail.com
+📫 Email ID : akhilkompally27@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -27,13 +27,13 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Engineering Intern · Teleparadigm Networks** *(Dec 2025 – May 2026)*  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 **Languages**  
@@ -71,12 +71,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kompallyakhil&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kompallyakhil&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kompallyakhil&theme=default&hide_border=true)](https://git.io/streak-stats)
 
