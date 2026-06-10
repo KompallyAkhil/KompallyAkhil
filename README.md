@@ -70,14 +70,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kompallyakhil&theme=default&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilkompally/)
