@@ -7,8 +7,7 @@
 ---
 
 🎓 Final-year **B.Tech CSE (AIML)** student, graduating 2026  
-💼 Interned at **Teleparadigm Networks** 
-🔍 Open to **SWE / AI Engineer / ML Engineer** roles  
+💼 Interned at **Teleparadigm Networks**  
 🌐 Portfolio: [akhilkompally.vercel.app](https://akhilkompally.vercel.app)  
 📫 Email ID : akhilkompally27@gmail.com
 
